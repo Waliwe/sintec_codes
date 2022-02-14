@@ -91,7 +91,7 @@ while True:
             multi.append(pagar)
             final=sum(multi)
 
-            s_n=str(input('Deseja comprar algo mais?: [s|n] estou aqui'))
+            s_n=str(input('Deseja comprar algo mais?: [s|n]'))
             print(' ')
             if s_n == 'n':
                 break
